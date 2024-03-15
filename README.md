@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Harshit Agrawal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me www.linkedin.com/in/harshit-agrawal-160873224
-
-
-<!---
-Harshitagrawal14/Harshitagrawal14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is HarshitAgrawal, I'm 21 years old B.Tech graduate, majoring in Computer Science from Prayagraj, Uttar Pradesh, India. I am currently working on upskilling myself to become industry-ready. My passion lies in the software world, and I thrive on exploring new technologies and honing my skills. One aspect that sets me apart is my willingness to step out of my comfort zone. I firmly believe in pushing boundaries to deliver exceptional quality work within given deadlines. I continuously challenge myself to learn and grow, embracing new opportunities and taking on diverse projects that expand my knowledge and skill set.
